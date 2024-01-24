@@ -1,0 +1,11 @@
+.currency {
+  padding: 9px 15px;
+  border-top: 1px solid #dad6d6;
+  border-bottom: 1px solid #dad6d6;
+  font-weight: 300;
+  cursor: pointer;
+
+  &:hover {
+    background-color: #f0efef;
+  }
+}
